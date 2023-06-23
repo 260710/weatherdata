@@ -1,0 +1,100 @@
+[
+	{
+		"city": "Shanghai",
+        "description": "Mostly Sunny",
+        "emoji": "🌤️",
+    "latitude": 31.2304,
+		"longitude": 121.4737,
+    "max": 29.0,
+		"min": 21.0
+	}, 
+	{
+		"city": "Beijing",
+        "description": "Mostly Sunny",
+        "emoji": "🌤️",
+    "latitude": 39.9042,
+		"longitude": 116.4074,
+    "max": 41.0,
+		"min": 27.0
+	}, 
+	{
+		"city": "Tokyo",
+        "description": "Cloudy",
+        "emoji": "☁️",
+    "latitude": 35.6762,
+		"longitude": 139.6503,
+    "max": 26.0,
+        "min": 16.0
+
+	}, 
+	{
+		"city": "Kyoto",
+        "description": "Cloudy",
+        "emoji": "☁️",
+    "latitude": 35.0116,
+		"longitude": 135.7681,
+    "max": 28.0,
+        "min": 20.0
+
+	}, 
+	{
+		"city": "Osaka",
+        "description": "Cloudy",
+        "emoji": "☁️",
+    "latitude": 34.6937,
+		"longitude": 135.5023,
+    "max": 27.0,
+				"min": 19.0
+
+	}, 
+	{
+		"city": "Hong Kong",
+        "description": "Mostly Cloudy",
+        "emoji": "🌥️",
+    "latitude": 22.3193,
+		"longitude": 114.1694,
+    "max": 32.0,
+				"min": 29.0
+
+	}, 
+	{
+		"city": "Sapporo",
+        "description": "Cloudy",
+        "emoji": "☁️",
+    "latitude": 43.0618,
+		"longitude": 141.3545,
+    "max": 26.0,
+				"min": 17.0
+
+	}, 
+	{
+		"city": "Seoul",
+        "description": "Mostly Cloudy",
+        "emoji": "🌥️",
+    "latitude": 37.5519,
+		"longitude": 126.9918,
+    "max": 29.0,
+				"min": 19.0
+
+	}, 
+	{
+		"city": "Busan",
+        "description": "Mostly Cloudy",
+        "emoji": "🌥️",
+    "latitude": 35.2100,
+		"longitude": 129.0689,
+    "max": 26.0,
+				"min": 19.0
+
+	}, 
+	{
+		"city": "Daegu",
+        "description": "Partly Cloudy",
+        "emoji": "⛅️",
+    "latitude": 35.8294,
+		"longitude": 128.5655,
+    "max": 31.0,
+				"min": 19.0
+
+	}
+]
